@@ -1,0 +1,32 @@
+﻿name,category,lat,lng,...,size,...,payment,milks,latte,...,min card spend y/n,min card spend figure,...,bus,coach,tube,rail,...,notes
+CAMBERWELL,cafe,51.473958,-0.080194,...,ual,...,contactless,5,3,...,na,na,...,na,na,na,na,...,na
+WILSON ROAD,cafe,51.47278,-0.08594,...,ual,...,contactless,5,3,...,na,na,...,na,na,na,na,...,...
+Sainsbury's Local,cs,51.47407,-0.08106,...,supermarket subsidiary,...,na,na,na,...,N,0,...,na,na,na,na,...,na
+TOAD Bakery,cafe,51.47361,-0.08109,...,independent,...,cash accepted,2,4,...,na,na,...,na,na,na,na,...,black filter
+CAFÉ MONDO,cafe,51.47369,-0.08125,...,independent,...,cash accepted,3,2.2,...,na,na,...,na,na,na,na,...,na
+Spring Social Supermarket,cs,51.47087,-0.08231,...,independent,...,na,na,na,...,na,na,...,na,na,na,na,...,charity
+Nisa Local,cs,51.47112,-0.08243,...,franchise,...,na,na,na,...,N,na,...,na,na,na,na,...,na
+Payless,cs,51.47425,-0.07688,...,independent,...,na,na,na,...,Y,1,...,na,na,na,na,...,na
+Louis,cafe,51.47430989246845, -0.079652984842348763,...,regional chain,...,cash accepted,6,3.9,...,na,na,...,na,na,na,na,...,exact cash only
+James Stores,cs,51.47754,-0.07294,...,independent,...,na,na,na,...,Y,1,...,na,na,na,na,...,na
+Londis,cs,51.47768,-0.07315,...,franchise,...,na,na,na,...,N,0,...,na,na,na,na,...,na
+Tesco Express,cs,51.47895,-0.08164,...,supermarket subsidiary,...,na,na,na,...,N ,0,...,na,na,na,na,...,na
+Rise & Grind,cafe,51.47809681376563, -0.08300343453826999,...,independent,...,na,na,na,...,na,na,...,na,na,na,na,...,closed
+Vinebins,cs,51.47808633170207, -0.08280202897647855,...,independent,...,na,na,na,...,Y,1,...,na,na,na,na,...,na
+Preseco,cs,51.47826,-0.08454,...,independent,..,na,na,na,...,Y,1,...,na,na,na,na,...,na
+Costcutter,cs,51.47838,-0.085,...,franchise,...,na,na,na,...,Y,2,...,na,na,na,na,...,na
+Peckham Theatre Cafe,cafe,51.474593223600905, -0.08286578860555216,...,independent,...,cash accepted,1,2.95,...,na,na,...,na,na,na,na,...,na
+Gayle's Coffee Bar,cafe,51.47448,-0.08319,...,independent,...,cash accepted,4,3.8,...,na,na,...,na,na,na,na,...,na
+Cool Cats' Cafe,cafe,51.47797743356784, -0.08215394434121566,...,independent,...,na,na,na,...,na,na,...,na,na,na,na,...,closed
+Ozis Cafe,cafe,51.47807,-0.08268,...,independent,...,cash accepted,2,3.9,...,na,na,...,na,na,na,na,...,na
+St Giles Church,public transport,51.47382957,-0.085927264,...,bus stop,...,na,na,na,...,na,na,...,8,0,0,0,...,na
+Vestry Road (Stop N),public transport,51.47364559,-0.085793269,...,bus stop,...,na,na,na,...,na,na,...,8,0,0,0,...,na
+Vestry Road (Stop V),public transport,51.4740618,-0.082401298,...,bus stop,...,na,na,na,...,na,na,...,8,0,0,0,...,na
+Peckham Road / Southampton Way (Stop P),public transport,51.47442934,-0.078345798,...,bus stop,...,na,na,na,...,na,na,...,8,0,0,0,...,na
+Peckham Road / Southampton Way (Stop T),public transport,51.47436001,-0.076487172,...,bus stop,...,na,na,na,...,na,na,...,11,0,0,0,...,na
+Harris Academy (Stop Q),public transport,51.47411083,-0.07359141,...,bus stop,...,na,na,na,...,na,na,...,11,0,0,0,...,na
+Harris Academy (Stop S),public transport,51.47379922,-0.073345649,...,bus stop,...,na,na,na,...,na,na,...,11,0,0,0,...,na
+Southampton Way / Peckham Road (Stop C),public transport,51.47564399,-0.077951766,...,bus stop,...,na,na,na,...,na,na,...,3,0,0,0,...,na
+Southampton Way Estate Stop (D),public transport,51.47653197,-0.079237891,...,bus stop,...,na,na,na,...,na,na,...,3,0,0,0,...,na
+Southampton Way Estate Stop (B),public transport,51.4768735,-0.07963669,...,bus stop,...,na,na,na,...,na,na,...,3,0,0,0,...,na
+,,,,,,,,,,,,,,,,,,,,

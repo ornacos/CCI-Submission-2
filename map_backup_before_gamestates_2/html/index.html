@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>home</title>
+    <link rel="stylesheet" href="../css/style1.css" />
+  </head>
+  <body>
+    <div class="page-wrapper">
+      <header>
+        <h1>ual: neighbours</h1>
+        <h2>Exploring the politics of space through CSM and Camberwell</h2>
+      </header>
+
+      <main>
+        <div class="map-wrapper">
+          <div class="map-container" id="map1">
+            <svg id="svg1" width="500" height="500"></svg>
+          </div>
+          <div class="map-container" id="map2">
+            <svg id="svg2" width="500" height="500"></svg>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <!-- left sidebar -->
+    <aside class="sidebar left" id="leftSidebar">
+      <div class="sidebar-handle" id="toggleLeftSidebar">
+        <span class="handle-arrow">&#x25B6;</span>
+      </div>
+      <div id="leftSidebarContent"></div>
+    </aside>
+
+    <!-- right sidebar -->
+    <aside class="sidebar right" id="rightSidebar">
+      <div class="sidebar-handle" id="toggleRightSidebar">
+        <span class="handle-arrow">&#x25C0;</span>
+      </div>
+      <div id="rightSidebarContent"></div>
+    </aside>
+
+    <div class="scroll-picker-wrapper">
+      <ul class="scroll-picker" id="scrollPicker">
+        <li class="picker-item active">show me everything</li>
+        <li class="picker-item">ual campuses</li>
+        <li class="picker-item">public transport</li>
+        <li class="picker-item">cafes & corner stores</li>
+        <li class="picker-item">cafes: cash or card?</li>
+        <li class="picker-item">cafes: milk map</li>
+        <li class="picker-item">cafes: size map</li>
+        <li class="picker-item">corner stores: min. card spend</li>
+        <li class="picker-item">corner stores: size map</li>
+      </ul>
+    </div>
+
+    <footer></footer>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="../js/sidepanels.js"></script>
+    <!-- <script src="../js/d3.js"></script> -->
+    <script src="../js/profiles.js"></script>
+    <script src="../js/index.js"></script>
+    <script src="../js/dropdown.js"></script>
+    <script src="../js/gameState.js"></script>
+  </body>
+</html>
